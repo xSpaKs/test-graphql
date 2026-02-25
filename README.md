@@ -1,4 +1,4 @@
-# Training to build a deployment pipeline
+# Training to build a GraphQL API
 
 I did this project to train building a GraphQL API as I have only built RESTful API so far.
 
